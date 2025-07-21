@@ -35,3 +35,11 @@
 20210921	09:26:40	d7c7d5fe-664b-4ce5-8f68-77601ec738c9	POST	undefined	/employees
 20210921	09:26:52	877c2794-8749-439b-af97-78015eca9a95	PUT	undefined	/employees
 20210924	08:31:09	b0351b0d-ecd5-449e-9993-bf3ffc729f49	PUT	undefined	/employees
+20250720	02:28:04	f5bb2f12-d2fd-463c-af8f-02278aa0106e	GET	undefined	/
+20250720	02:28:04	35073982-bf41-440a-9399-ac878bef8450	GET	undefined	/css/style.css
+20250720	02:28:05	73905e95-0488-42d4-8b87-0d7bb36f8b78	GET	undefined	/favicon.ico
+20250722	01:16:16	da113183-c19c-4bbf-85dc-6c243ca2f20b	POST	undefined	/register
+20250722	01:16:35	e461dedf-7509-4708-9d1e-a5a56ee87f17	POST	undefined	/register
+20250722	01:18:20	ea05e6dd-e452-48ed-9d8f-67f37bddcd90	POST	undefined	/register
+20250722	01:19:07	9792d72f-660e-432a-8375-e85074db822b	POST	undefined	/register
+20250722	01:19:21	50e74696-3bbc-49e0-8346-e61b3b20db14	POST	undefined	/register
